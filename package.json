@@ -1,0 +1,19 @@
+{
+  "name": "postulaciongepro",
+  "version": "1.0.0",
+  "description": "To Do App",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch ./db/db.json"
+  },
+  "author": "Maximiliano Quevedo",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.10.1",
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
+    "bootstrap": "^4.3.1",
+    "json-server": "^0.15.0",
+    "moment": "^2.24.0"
+  }
+}
